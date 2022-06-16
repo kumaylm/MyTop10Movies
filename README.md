@@ -1,4 +1,8 @@
 # My Top 10 Movies Website
+
+A beautiful website that lists our top 10 films of all time using Flask/WTForms/SQLite/SQLAlchemy and more. As we watch more movies, we can always update our list and keep track of which movies to recommend people.
+
+
 ## Concepts Practiced
 - SQLite Databases
 - SQLAlchemy
