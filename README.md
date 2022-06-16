@@ -10,6 +10,11 @@ A beautiful website that lists our top 10 films of all time using Flask/WTForms/
 - Build a SQLite Database into the Flask Website
 - CSS & HTML
 
+## Languages Implemented
+- HTML
+- CSS
+- Python (Flask and WTForms)
+
 ## Progression
 At the moment the front of the movie card says None in large letters.
 Instead, we want it to display the ranking of the movie according to our rating. e.g.
